@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EPubTestActivity!</string>
+    <string name="app_name">SkyTest</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_epub">Open</string>
+    <string name="see_details">Move To The First</string>
+    <string name="delete_epub">Delete</string>
+	<string name="delete_cache">Delete Cached</string>
+    <string name="book_title">Adventure</string>
+    <string name="book_author">Loweice</string>
+    <string name="sortOption">Sort Books</string>
+    <string name="sortByTitle">By Title</string>
+    <string name="sortByAuthor">By Author</string>
+    <string name="sortByLastRead">By Last Read</string>
+    <string name="sortByDownload">No Sort</string>
+    <string name="setting">Setting</string>
+    <string name="network">Network</string>
+    <string name="allow3g4g">3G/4G Download</string>
+    <string name="theme">Theme</string>
+    <string name="themewhite">Theme White</string>
+    <string name="themebrown">Theme Brown</string>
+    <string name="themeblack">Theme Black</string>
+    <string name="pagetransitioneffect">Page Transition Effect</string>
+    <string name="noneeffect">None</string>
+    <string name="slideeffect">Slide Effect</string>
+    <string name="curleffect">Curl Effect</string>
+    <string name="layout">Layout</string>
+    <string name="doublepaged">Double Paged For Landscape</string>
+    <string name="lockrotation">Lock Rotation</string>
+    <string name="information">Information</string>
+    <string name="reader">SkyReader version 1.0</string>
+    <string name="skyepub">Powered By SkyEpub for Android</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="globalPagination">Global Pagination</string>
+    <string name="searchhint">Type Words To Search</string>    
+    <string name="contents">contents</string>
+    <string name="bookmark">bookmark</string>
+    <string name="highlight">highlight</string>
+	<string name="note">Note</string>    
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="chara">A</string>    
+    <string name="searchmore">Search More</string>
+    <string name="searchfinished">Search Finished</string>
+    <string name="searchfound">found</string>    
+	<string name="delete">Delete</string>
+</resources>

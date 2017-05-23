@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_margin="20dp"
+    android:layout_marginRight="10dp"
+    android:background="@drawable/home_box"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/book_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#153c03"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/authorTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/book_author"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#505050" />
+
+    <Button
+        android:id="@+id/OpenButton"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/home_box"
+        android:text="@string/open_epub" />
+
+    <Button
+        android:id="@+id/SeeDetailsButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/home_box"
+        android:text="@string/see_details" />
+
+    <Button
+        android:id="@+id/DeleteButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/home_box"
+        android:text="@string/delete_epub" />
+
+    <Button
+        android:id="@+id/DeleteCacheButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/home_box"
+        android:text="@string/delete_cache" />
+
+</LinearLayout>

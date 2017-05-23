@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">¡Hola Mundo!, EPubTestActivity!</string>
+    <string name="app_name">SkyTest</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="open_epub">Abrir</string>
+    <string name="see_details">Ver detalles</string>
+    <string name="delete_epub">Borrar</string>
+    <string name="delete_cache">Eliminar caché</string>    
+    <string name="book_title">Aventura</string>
+    <string name="book_author">Loweice</string>
+    <string name="sortOption">Libros cortos</string>
+    <string name="sortByTitle">Por título</string>
+    <string name="sortByAuthor">Por autor</string>
+    <string name="sortByLastRead">Por fecha de lectura</string>
+    <string name="sortByDownload">Por fecha de descarga</string>
+    <string name="setting">Configuración</string>
+    <string name="network">Red</string>
+    <string name="allow3g4g">Descarga 3G/4G</string>
+    <string name="theme">Tema</string>
+    <string name="themewhite">Tema Blanco</string>
+    <string name="themebrown">Tema Marron</string>
+    <string name="themeblack">Tema Negro</string>
+    <string name="pagetransitioneffect">Efecto de transición de página</string>
+    <string name="noneeffect">Ninguno</string>
+    <string name="slideeffect">Dispositiva</string>
+    <string name="curleffect">Página</string>
+    <string name="layout">Diseño gráfico</string>
+    <string name="doublepaged">Doble página para formato horizontal</string>
+    <string name="lockrotation">Bloqueo de rotación de pantalla</string>
+    <string name="information">Información</string>
+    <string name="reader">SkyReader Version 1.0</string>
+    <string name="skyepub">Desarrollado por SkyEpub para Android</string>
+    <string name="title_activity_setting">Configuración</string>
+    <string name="globalPagination">Paginación global</string>
+    <string name="searchhint">Teclee su búsqueda</string>
+    <string name="contents">Contenidos</string>
+    <string name="bookmark">Marcadores</string>
+    <string name="highlight">Destacados</string>
+    <string name="note">Nota</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="chara">A</string>    
+    <string name="searchmore">Buscar más</string>
+    <string name="searchfinished">Búsqueda finalizada</string>
+    <string name="searchfound">Encontrados</string>  
+    <string name="delete">Borrar</string>
+</resources>

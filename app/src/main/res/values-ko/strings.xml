@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EPubTestActivity!</string>
+    <string name="app_name">SkyTest</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">설정</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_epub">열기</string>
+    <string name="see_details">첫 페이지로 이동</string>
+    <string name="delete_epub">삭제</string>
+    <string name="delete_cache">캐쉬 삭제</string>
+    <string name="book_title">Adventure</string>
+    <string name="book_author">Loweice</string>
+    <string name="sortOption">정렬</string>
+    <string name="sortByTitle">제목 순으로</string>
+    <string name="sortByAuthor">저자 순으로</string>
+    <string name="sortByLastRead">최근에 읽은 순으로</string>
+    <string name="sortByDownload">정렬하지 않음</string>
+    <string name="setting">설정</string>
+    <string name="network">네트워크</string>
+    <string name="allow3g4g">3G/4G 다운로드</string>
+    <string name="theme">테마</string>
+    <string name="themewhite">흰색 테마</string>
+    <string name="themebrown">갈색 테마</string>
+    <string name="themeblack">검은 테마</string>
+    <string name="pagetransitioneffect">페이지 전환 효과</string>
+    <string name="noneeffect">없음</string>
+    <string name="slideeffect">슬라이드 효과</string>
+    <string name="curleffect">넘기기 효과</string>
+    <string name="layout">레이아웃</string>
+    <string name="doublepaged">가로에서 양면 페이지 보기</string>
+    <string name="lockrotation">회전 금지</string>
+    <string name="information">정보</string>
+    <string name="reader">SkyReader 버전 1.0</string>
+    <string name="skyepub">SkyEpub for Android를 엔진으로 사용</string>
+    <string name="title_activity_setting">설정</string>
+    <string name="globalPagination">전역적으로 페이지번호 매김</string>
+    <string name="searchhint">검색어를 입력하세요.</string>
+    <string name="contents">목차</string>
+    <string name="bookmark">북마크</string>
+    <string name="highlight">하이라이트</string>
+    <string name="note">노트</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="chara">가</string>
+    <string name="searchmore">계속 검색</string>
+    <string name="searchfinished">검색 완료</string>
+    <string name="searchfound">개 찾음</string>
+    <string name="delete">삭제</string>
+    <string name="globalpaginationwarning">전역적으로 페이지번호 매김 기능은 책 전체에 대한 페이지 번호를 보여줍니다.\n 
+전체 책의 페이지수 계산을 끝내기까지 많은 시간이 걸릴 수도 있습니다. \n
+폰트 이름이나 폰트 크기등이 바뀔 때마다 전역적으로 페이지 매김 기능은 전체 페이지수를 다시 계산합니다.\n 
+전역적으로 페이지 매김 기능이 진행되고 있는 동안 일부 사용자 인터페이스가 제한될 수 있습니다. </string>
+	<string name="warning">경고</string>
+    <string name="voice">음성</string>
+    <string name="mediaoverlay">미디어오버레이</string>
+    <string name="tts">음성 합성</string>
+    <string name="autostartplaying">자동으로 말하기 시작</string>
+    <string name="autoloadnewchapter">자동으로 다음 챕터 로드</string>
+    <string name="highlighttexttoVoice">음성에 맞추어 텍스트 하이라이트</string>
+</resources>
